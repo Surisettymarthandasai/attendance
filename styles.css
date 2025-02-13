@@ -1,0 +1,22 @@
+.name-container {
+    display: inline-block;
+    margin-right: 120px; 
+    margin-top: 100px;
+}
+.name {
+    font-size: 30px;
+    font-weight: bold;
+    color: #d80909;
+    margin-left: 600px;
+}
+.logo
+{
+    border-radius: 30px;
+}
+.name-container {
+    display: inline-block;
+    margin-right: 20px; 
+}
+.image-container {
+    margin-top: 20px;
+}
